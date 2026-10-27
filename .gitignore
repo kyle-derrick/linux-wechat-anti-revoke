@@ -1,0 +1,11 @@
+# 补丁备份与解包产物, 不要提交
+*.wxrevoke.bak
+*.tmp
+wx_patched/
+squashfs-root/
+
+# 系统与工具
+__pycache__/
+*.pyc
+WeChatLinux*.deb
+WeChatLinux*.AppImage
